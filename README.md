@@ -1,7 +1,7 @@
 # TicketHub - Event Ticket Booking System
 
 ![Java](https://img.shields.io/badge/Java-21-red)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.14-brightgreen)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![React](https://img.shields.io/badge/React-19-61dafb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6-blue)
