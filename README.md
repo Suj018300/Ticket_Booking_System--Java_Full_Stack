@@ -1,10 +1,20 @@
 # TicketHub - Event Ticket Booking System
 
 ![Java](https://img.shields.io/badge/Java-21-red)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.14-brightgreen)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![React](https://img.shields.io/badge/React-19-61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript-6-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6.x-6DB33F)
+![OAuth2](https://img.shields.io/badge/OAuth2-Resource%20Server-blue)
+![Keycloak](https://img.shields.io/badge/Keycloak-IAM-0078D4)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data-JPA-6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C)
+![REST API](https://img.shields.io/badge/REST%20API-12%2B%20Endpoints-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED)
+![Docker Compose](https://img.shields.io/badge/Docker-Compose-2496ED)
+![Adminer](https://img.shields.io/badge/Adminer-Database%20Management-34567C)
+![React](https://img.shields.io/badge/React-19-61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-3178C6)
 
 TicketHub is a full-stack event ticket booking platform built with a Spring Boot backend and a React frontend. It supports event publishing, ticket purchasing, QR-code ticket generation, and ticket validation for event staff.
 
